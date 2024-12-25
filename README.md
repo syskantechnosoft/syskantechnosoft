@@ -22,11 +22,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on: [Your Current Project]
-- 🌱 I’m currently learning: [Technologies or Skills You Are Learning]
-- 👯 I’m looking to collaborate on: [Projects or Areas of Interest]
-- 💬 Ask me about: [Your Areas of Expertise]
-- 📫 How to reach me: [Your Contact Information]
+- 🔭 I’m currently working on: Java Full Stack, MEAN & MERN Stack,DevOps, Cloud, Python & AI/ML
+- 🌱 I’m currently learning: Ai/ML, Salesforce, PEGA, Mulesoft, Servicenow, NAS, SAN
+- 👯 I’m looking to collaborate on: Robotics, IoT, Raspberry Pi, Jetson, Orange & Banana Pi
+- 💬 Ask me about: Java Full Stack, React, Angular, DevOps, Clouds, CI/CD, Docker, K8S
+- 📫 How to reach me: syskantechnosoft@gmail.com
 - ⚡ Fun fact: [A Fun Fact About Yourself]
 
 ## 🛠️ Technologies & Tools
