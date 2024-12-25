@@ -59,4 +59,3 @@ Feel free to check out my repositories and get in touch if you'd like to collabo
 
 ---
 
-*Note: This is a sample README, and you should replace the placeholder text with your actual information and links.*
